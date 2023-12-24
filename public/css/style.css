@@ -43,6 +43,7 @@ header {
 
 /* NAVBAR */
 #navbar img {
+    margin-left: 20px;
     width: 50px;
 }
 
@@ -50,6 +51,7 @@ header {
     justify-content: space-between;
     background-color: #fff;
     padding: 5px 0;
+    margin-right: 20px;
 }
 
 #navbar a {
@@ -190,6 +192,9 @@ header {
     display: flex;
 }
 
+#description-container {
+    margin-top: 30px;
+}
 
 /* foooter */
 footer {
