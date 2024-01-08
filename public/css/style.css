@@ -41,6 +41,15 @@ header {
     padding: 10px;
 }
 
+#info-container .already-joined-msg {
+    margin: 15px 0;
+    color: #004085;
+    background-color: #cce5ff;
+    border: 1px solid #b8daff;
+    padding: 10px;
+    width: 275px;
+}
+
 /* NAVBAR */
 #navbar img {
     margin-left: 20px;
@@ -194,6 +203,26 @@ header {
 
 #description-container {
     margin-top: 30px;
+}
+
+/* Dashboard */
+.dashboard-title-container {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.dashboard-events-container th {
+    width: 25%;
+}
+
+.dashboard-events-container form {
+    display: inline-block;
+}
+
+/*Página de Edit */
+.img-preview {
+    width: 100px;
+    margin-top: 20px;
 }
 
 /* foooter */
